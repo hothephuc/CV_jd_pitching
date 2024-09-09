@@ -1,0 +1,15 @@
+Subject: Join Renn Labs - Elevate Your AI Expertise in Our Innovative Team!
+
+Dear Elia Sagita Wijaya,
+
+We were thrilled to discover your impressive background as a Senior Software Engineer and your passion for driving product development and process improvement. At Renn Lab, we celebrate cutting-edge AI innovations that are shaping the future of technology. As an entrepreneurial venture led by our visionary CEO with deep industry experience and a commitment to groundbreraphines in digital banking, fintech, and e-commerce, we believe your expertise would be incredibly valuable to us as we continue to revolutionize these spaces.
+
+Your extensive tenure at Traveloka has equipped you with the skills to design robust systems that deliver exceptional user experiences. With your experience in automating business use cases, introducing engineering standards, and troubleshooting incidents, we see great potential for growth within our team. Moreover, given your proficiency in various programming languages such as PHP, Laravel, JavaScript, Java, Spring Boot, Kotlin, Python Flask, and FastAPI, you're well-positioned to contribute to Renn Labs' dynamic environment, where innovation thrives through collaboration and diverse skill sets.
+
+At Renn Labs, we are seeking a passionate Senior Software Engineer like yourself who understands the importance of evolving software architecture and process improvement. Your experience in migrating legacy systems into new ones aligns with our mission to build scalable, efficient solutions that empower businesses and transform industries. We believe you would excel at leveraging your knowledge in PHP, CakePHP, Laravel, JavaScript, jQuery, Java, Spring Boot, jOOQ, Kotlin, Python Flask, FastAPI, MySQL, PostgreSQL, MongoDB, Firebase, AWS, GCP, Datadog, and Sentry to propel Renn Labs' vision forward.
+
+We would love the opportunity for you to bring your unique perspective on AI-driven solutions to our team. Please let us know if you are interested in exploring this exciting opportunity further by scheduling an interview or applying directly via our job portal. We look forward to connecting with you soon!
+
+Best regards,
+[Your Name]
+Hiring Manager at Renn Labs

@@ -1,0 +1,21 @@
+Subject: Exciting Opportunity at Renn Labs - Senior Software Engineer Role!
+
+Dear Elia,
+
+We came across your profile on LinkedIn and were impressed by your experience in software engineering, product development, and process improvement. As you may know, Renn Labs is a cutting-edge innovation studio committed to incubating AI-driven experiments and developing transformative solutions in finance and e-commerce.
+
+Our mission aligns with your passion for building robust, scalable, and efficient systems, and we believe this opportunity would be an excellent fit for your skills and interests. Specifically, our Senior Software Engineer role, where you'll collaborate effectively with key stakeholders to establish and implement best engineering practices, is an ideal match for your expertise in Node.js, AWS services, and software architecture.
+
+With a strong background in product development, as seen in your experience at Pashouses and Traveloka, we're confident that your skills will shine in this role. Your ability to design, develop, optimize, and maintain code, as well as your proficiency in frontend technologies like React.js and Next.js, will be valuable assets to our team.
+
+At Renn Labs, you'll have the opportunity to work on AI-driven product development, gaining exposure to cutting-edge technologies and contributing to groundbreaking innovation. You'll also enjoy a flexible schedule, competitive compensation, and access to a team of experienced tech professionals and global playgrounds.
+
+We'd love to invite you to apply for this Senior Software Engineer role or schedule an interview to discuss how your skills align with our company's mission. Please feel free to reach out to us at [insert contact email] or [insert contact phone number].
+
+Looking forward to hearing from you!
+
+Best regards,
+
+[Your Name]
+
+P.S. Don't miss this opportunity to elevate your value and redefine the future!

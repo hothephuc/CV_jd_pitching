@@ -1,0 +1,18 @@
+Subject: Exciting Opportunity at Qalboo - Leverage Your Tech Skills for Social Impact!
+
+Dear [Candidate Name],
+
+I hope this email finds you well. My name is Arjun Sumarlan, and I am the Co-Founder and CTO of Qalboo, a cutting-edge technology company that's revolutionizing the Islamic mental health space with innovative digital solutions. We are backed by reputable venture capital firms Antler and Iterative, which speaks to our commitment to leveraging technology for positive social impact.
+
+As a seasoned software engineer with a strong background in full-stack development, I believe you would be an excellent fit for our team. Your experience with NodeJS, NestJS, ReactJS, React Native, TypeScript, Firebase, Google Cloud Platform, and more aligns perfectly with our tech stack. Plus, your proficiency in languages such as Indonesian and English will enable you to effectively communicate with our diverse user base.
+
+At Qalboo, we're on a mission to create exponential impact by empowering select partners to accelerate their growth and revolutionize their industries. We believe that by leveraging technology, we can help people better manage their mental health and improve their overall well-being. As our CTO, you will play a crucial role in developing and maintaining our products, as well as leading a talented team of developers to achieve this goal.
+
+Based on your profile, I believe that you have the skills and experience necessary to excel in this opportunity. Your 10 years of experience in software engineering, including 5 years as a CTO, demonstrate your ability to lead cross-functional teams and deliver high-quality products. Additionally, your proficiency in TypeORM Query Builder and other technologies relevant to our stack shows that you are well-versed in the tools and techniques necessary for success in this role.
+
+In conclusion, I would like to invite you to join our mission at Qalboo. As a key member of our team, you will have the opportunity to work on cutting-edge technology and contribute to a worthy cause. If you're interested in learning more or applying for the position, please feel free to reach out to me directly. I look forward to hearing from you soon!
+
+Best regards,
+Arjun Sumarlan
+Co-Founder and CTO, Qalboo
+[Email Address]

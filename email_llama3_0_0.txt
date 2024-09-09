@@ -1,0 +1,17 @@
+Here is the personalized email message:
+
+Dear Arjun,
+
+I hope this message finds you well. I'm reaching out from Qalboo, a company that has been making waves in the Islamic mental health app space with our innovative solutions backed by prominent venture capital firms Antler and Iterative.
+
+As someone passionate about building robust, scalable, and efficient software systems, we believe your skills and experience would be a perfect fit for our team. With your extensive background in leading tech teams to develop and maintain cutting-edge products using languages like JavaScript, TypeScript, and Java, as well as your expertise in frameworks such as React, Angular, and Flutter, we think you'd thrive in our dynamic environment.
+
+As the Founder and CTO of Qalboo, I'm excited about the prospect of bringing on a seasoned professional like yourself to help drive our technology strategy forward. Your experience in leading squads to develop billing systems, your proficiency in technologies like NestJS, NextJS, Firebase, Google Cloud, BullJS, Kafka, MongoDB, OpenAI, and many more would be invaluable assets to our team.
+
+If you're looking for a new challenge that leverages your skills and expertise to make a positive social impact, we'd love to invite you to explore this opportunity further. With your strong background in software engineering, combined with your experience in leading tech teams and developing innovative products, I believe you would be an excellent fit for our team.
+
+Please don't hesitate to reach out if you're interested in learning more about this exciting opportunity. We look forward to the possibility of discussing how your skills align with our goals and vision.
+
+Best regards,
+[Your Name]
+Founder and CTO, Qalboo

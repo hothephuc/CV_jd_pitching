@@ -1,0 +1,14 @@
+Dear Elia,
+
+Renn Labs is an exclusive innovation studio dedicated to incubating groundbreaking AI-driven experiments and developing transformative solutions across sectors. We're on the hunt for a skilled Senior Software Engineer who will play a vital role in shaping the technological backbone of our innovative AI products.
+
+Your experience as a Senior Software Engineer at Pashouses, where you oversaw projects from inception to completion and improved engineering standards, is directly relevant to the role. You're also a skilled backend developer with experience using Javascript, MySQL, and AWS.
+
+At Renn Labs, you'll have the opportunity to:
+
+- Design, develop, and maintain scalable and robust code using Node.js and AWS services
+- Collaborate with a team of experienced engineers and global partners
+- Leverage AI technologies to develop cutting-edge products
+- Enjoy personalized and flexible work schedules
+
+We encourage you to apply for this exciting opportunity where your skills, knowledge, and passion for building efficient AI-driven solutions will be highly valued.
